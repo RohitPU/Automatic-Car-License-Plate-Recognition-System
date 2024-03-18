@@ -1,12 +1,3 @@
 Automatic Car License Plate Recognition System
 
-    1)Utilized YOLOv8, a deep learning object detection model, to detect and localize vehicle
-      license plates within images or video streams captured in traffic environments.
-    
-    2)Integrated EasyOCR for optical character recognition (OCR), enabling the
-      extraction and interpretation of alphanumeric characters from detected license
-      plates.
-    
-    3)Developed a Python-based project for seamless integration of YOLO v8 and EasyOCR,
-      providing a user-friendly interface for real-time or batch processing of vehicle number
-      plates in traffic situations.
+The project seamlessly integrates YOLOv8, a state-of-the-art deep learning object detection model, with EasyOCR to efficiently extract and interpret alphanumeric characters from vehicle license plates in traffic environments. By leveraging YOLOv8's capabilities, the system accurately detects and localizes license plates within images or video streams, while EasyOCR handles the optical character recognition (OCR) tasks. Developed in Python, the project offers a user-friendly interface for real-time or batch processing of vehicle number plates, providing a robust solution for various traffic management applications.
